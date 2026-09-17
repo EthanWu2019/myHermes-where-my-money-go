@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-15T23:10:31-05:00",
-  "rate": 6.726834,
+  "updatedAt": "2026-09-16T23:10:26-05:00",
+  "rate": 6.722291,
   "entries": [
+    {
+      "name": "meal plan",
+      "amount": 110,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-16",
+      "note": "本周一周 meal plan"
+    },
+    {
+      "name": "眼药水+湿巾+HDMI2.1线",
+      "amount": 52,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-09-15",
+      "note": "眼药水、湿巾、hdmi2.1线"
+    },
     {
       "name": "剪头发",
       "amount": 40,
