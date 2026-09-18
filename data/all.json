@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-09-16T23:10:26-05:00",
-  "rate": 6.722291,
+  "updatedAt": "2026-09-17T23:10:29-05:00",
+  "rate": 6.721845,
   "entries": [
+    {
+      "name": "点外卖",
+      "amount": 46,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-16",
+      "note": ""
+    },
     {
       "name": "meal plan",
       "amount": 110,
