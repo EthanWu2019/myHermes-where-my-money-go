@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-09-17T23:10:29-05:00",
-  "rate": 6.721845,
+  "updatedAt": "2026-09-18T23:10:45-05:00",
+  "rate": 6.714087,
   "entries": [
+    {
+      "name": "点外卖",
+      "amount": 370,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-16",
+      "note": ""
+    },
     {
       "name": "点外卖",
       "amount": 46,
