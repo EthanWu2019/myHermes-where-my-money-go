@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-18T23:10:45-05:00",
-  "rate": 6.714087,
+  "updatedAt": "2026-09-19T23:10:59-05:00",
+  "rate": 6.718405,
   "entries": [
+    {
+      "name": "买饮料",
+      "amount": 95,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-16",
+      "note": ""
+    },
+    {
+      "name": "鸣潮体力礼包",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-16",
+      "note": ""
+    },
     {
       "name": "点外卖",
       "amount": 370,
