@@ -5,7 +5,7 @@ echo "📊 海绵酱账户更新 — $(date '+%Y-%m-%d %H:%M:%S %Z')"
 echo "========================================="
 
 # 1. 生成数据
-cd ~/where-my-money-go
+cd ~/myHermes-where-my-money-go
 python3 generate_data.py
 
 # 2. Git 提交推送

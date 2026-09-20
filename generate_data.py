@@ -5,7 +5,7 @@ import json, os, time, urllib.request
 DATA_SOURCE_ID = "76355758-84c1-4145-8326-3b719402907f"
 ENV_FILE = os.path.expanduser("~/.hermes/.env")
 NOTION_VERSION = "2025-09-03"
-OUTPUT_DIR = os.path.expanduser("~/where-my-money-go/data")
+OUTPUT_DIR = os.path.expanduser("~/myHermes-where-my-money-go/data")
 
 CATEGORY_MAP = {
     "工资": "工资 💰", "拨款": "拨款 💸", "零头": "零头 🪙",
