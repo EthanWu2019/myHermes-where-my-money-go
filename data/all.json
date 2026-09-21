@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:01:12-05:00",
+  "updatedAt": "2026-09-20T23:10:42-05:00",
   "rate": 6.704712,
   "entries": [
     {
@@ -7,9 +7,9 @@
       "amount": 30,
       "currency": "RMB",
       "type": "支出",
-      "category": "月扣",
+      "category": "其他 📦",
       "date": "2026-09-20",
-      "note": "Duolingo 年度超级会员，按订阅性质归月扣"
+      "note": "Duolingo 年度超级会员，主人指定归'其他'不是月扣（年度订阅非月度扣款）"
     },
     {
       "name": "点外卖",
