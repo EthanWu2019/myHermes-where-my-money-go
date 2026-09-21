@@ -15,7 +15,7 @@ you say "spent $40 on lunch"
   pending.json ............ local JSON queue (single source of truth)
         │
         ▼
-  23:00 cron → sync.py .... pushes queue to Notion (账目明细 database)
+  23:55 cron → sync.py .... pushes queue to Notion (账目明细 database)
         │
         ▼
   23:10 cron → generate_data.py ... pulls everything back, writes data/all.json,
@@ -39,7 +39,7 @@ Three layers, each with one job and one failure mode:
 - 5 hand-rolled CSS themes (Violet / Sharp / Minimal / Neon / Sunset)
 - Click a category card to filter the transaction list
 
-Live at **https://ethanwu2019.github.io/where-my-money-go/**
+Live at **https://ethanwu2019.github.io/myHermes-where-my-money-go/**
 
 The spend data is public on purpose — it's a single `data/all.json` you can fork. I don't mind.
 
