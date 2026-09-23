@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-09-21T23:10:27-05:00",
-  "rate": 6.710202,
+  "updatedAt": "2026-09-22T23:10:23-05:00",
+  "rate": 6.71347,
   "entries": [
+    {
+      "name": "原神大月卡",
+      "amount": 128,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-20",
+      "note": ""
+    },
+    {
+      "name": "交通卡+Wise卡",
+      "amount": 30,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-09-20",
+      "note": "弄各种交通卡，wise卡"
+    },
     {
       "name": "多邻国年度会员",
       "amount": 30,
