@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-09-22T23:10:23-05:00",
-  "rate": 6.71347,
+  "updatedAt": "2026-09-23T23:10:22-05:00",
+  "rate": 6.722655,
   "entries": [
+    {
+      "name": "meal plan",
+      "amount": 100,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-23",
+      "note": "下周一周 meal plan"
+    },
     {
       "name": "原神大月卡",
       "amount": 128,
