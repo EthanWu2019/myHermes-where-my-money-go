@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-09-26T23:10:45-05:00",
-  "rate": 6.729032,
+  "updatedAt": "2026-09-27T23:10:46-05:00",
+  "rate": 6.719488,
   "entries": [
+    {
+      "name": "崩铁大月卡",
+      "amount": 128,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "买水、披萨、冰块",
+      "amount": 43,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-26",
+      "note": "水+披萨+冰块"
+    },
+    {
+      "name": "妈妈打款",
+      "amount": 20000,
+      "currency": "RMB",
+      "type": "收入",
+      "category": "工资 💰",
+      "date": "2026-09-26",
+      "note": "妈妈转入生活费"
+    },
     {
       "name": "点外卖",
       "amount": 44,
