@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-09-28T23:10:48-05:00",
-  "rate": 6.721579,
+  "updatedAt": "2026-09-29T23:10:49-05:00",
+  "rate": 6.717859,
   "entries": [
+    {
+      "name": "工资",
+      "amount": 4990,
+      "currency": "RMB",
+      "type": "收入",
+      "category": "工资 💰",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "鸣潮",
+      "amount": 1290,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": "抽心月狐：70歪+40up+10专武+70歪+60up+10歪+0up+70up+70up"
+    },
+    {
+      "name": "鸣潮",
+      "amount": 1798,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": "抽心月狐：70歪+40up+10专武+70歪+60up+10歪+0up+70up+70up"
+    },
+    {
+      "name": "鸣潮",
+      "amount": 68,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": "抽心月狐：70歪+40up+10专武+70歪+60up+10歪+0up+70up+70up"
+    },
+    {
+      "name": "鸣潮",
+      "amount": 128,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": "抽心月狐：70歪+40up+10专武+70歪+60up+10歪+0up+70up+70up"
+    },
     {
       "name": "meal plan",
       "amount": 103,
