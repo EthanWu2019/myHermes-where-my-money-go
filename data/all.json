@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-09-30T23:10:50-05:00",
-  "rate": 6.716878,
+  "updatedAt": "2026-10-01T23:10:55-05:00",
+  "rate": 6.714553,
   "entries": [
+    {
+      "name": "买steam游戏",
+      "amount": 18,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "鸣潮",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "鸣潮",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "鸣潮",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-09-26",
+      "note": ""
+    },
     {
       "name": "鸣潮",
       "amount": 128,
