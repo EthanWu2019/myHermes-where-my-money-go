@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-01T23:10:55-05:00",
-  "rate": 6.714553,
+  "updatedAt": "2026-10-02T23:10:47-05:00",
+  "rate": 6.714383,
   "entries": [
+    {
+      "name": "吃饭",
+      "amount": 18,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-26",
+      "note": ""
+    },
+    {
+      "name": "点外卖",
+      "amount": 35,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-09-26",
+      "note": ""
+    },
     {
       "name": "买steam游戏",
       "amount": 18,
