@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-02T23:10:47-05:00",
-  "rate": 6.714383,
+  "updatedAt": "2026-10-03T23:10:46-05:00",
+  "rate": 6.72008,
   "entries": [
+    {
+      "name": "iCloud 订阅",
+      "amount": 9.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "月扣",
+      "date": "2026-10-03",
+      "note": "iCloud月费，每月3号扣款"
+    },
     {
       "name": "吃饭",
       "amount": 18,
