@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T23:10:33-05:00",
-  "rate": 6.712457,
+  "updatedAt": "2026-10-08T23:10:32-05:00",
+  "rate": 6.715255,
   "entries": [
     {
       "name": "终末地礼包",
@@ -19,6 +19,60 @@
       "category": "游戏 🎮",
       "date": "2026-10-07",
       "note": "二游 终末地 月卡 30元; 中行短信原文: 您的借记卡账户9602,于10月07日网上支付支取人民币30.00元,交易后余额16457.82【中国银行】"
+    },
+    {
+      "name": "2026-10-06 PURCHASE 1006 LINK.COM* SIMPLEFIN BR LINK.COM CA XXXXX7762XXXXXXXXXX1291",
+      "amount": 1.5,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-06",
+      "note": "PURCHASE   1006 LINK.COM* SIMPLEFIN BR                      LINK.COM     CA XXXXX7762XXXXXXXXXX1291\nsf:TRN-b540e586-7aca-449c-9f79-d6724bff4a8a"
+    },
+    {
+      "name": "2026-10-06 PURCHASE 1005 TIKTOK SHOP TIKTOK.COM CA XXXXX2962XXXXXXXXXX2578",
+      "amount": 19.74,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-06",
+      "note": "PURCHASE   1005 TIKTOK SHOP                                 TIKTOK.COM   CA XXXXX2962XXXXXXXXXX2578\nsf:TRN-c28e440e-3fe9-4ae2-9277-7b9edffd8a7c"
+    },
+    {
+      "name": "2026-10-05 Lemonade Inc DES:PAYMENT ID:PAYMENT INDN:Chengze Wu CO ID:XXXXX69673 WEB",
+      "amount": 16.42,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-05",
+      "note": "Lemonade Inc     DES:PAYMENT    ID:PAYMENT                   INDN:Chengze Wu              CO ID:XXXXX69673 WEB\nsf:TRN-782f38eb-3a80-4b18-8aca-60d36dd8490f"
+    },
+    {
+      "name": "2026-10-05 PURCHASE 1004 PAYPAL *UNIQLO USA UNIQ 402-935-7733 NY XXXXX6262XXXXXXXXXX7650",
+      "amount": 124.82,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-05",
+      "note": "PURCHASE   1004 PAYPAL *UNIQLO USA UNIQ                     402-935-7733 NY XXXXX6262XXXXXXXXXX7650\nsf:TRN-dbc40e08-8472-4620-8bcd-eef0915f55f0"
+    },
+    {
+      "name": "2026-10-05 PURCHASE 1002 UBER * EATS San FranciscoCA",
+      "amount": 35.5,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-05",
+      "note": "PURCHASE   1002 UBER   * EATS                               San FranciscoCA\nsf:TRN-82404f82-1275-4d3b-a865-65f4fb5330ff"
+    },
+    {
+      "name": "2026-10-05 PURCHASE 1002 Fantuan Delivery Fremont CA XXXXX3862XXXXXXXXXX4074",
+      "amount": 35.18,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-05",
+      "note": "PURCHASE   1002 Fantuan Delivery                            Fremont      CA XXXXX3862XXXXXXXXXX4074\nsf:TRN-9969763a-c018-4233-bc21-1093910129d3"
     },
     {
       "name": "中国银行短信通知年费",
