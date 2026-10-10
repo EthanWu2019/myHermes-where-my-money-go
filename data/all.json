@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-10-08T23:10:32-05:00",
-  "rate": 6.715255,
+  "updatedAt": "2026-10-09T23:10:29-05:00",
+  "rate": 6.706465,
   "entries": [
+    {
+      "name": "原神月卡",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-10-09",
+      "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-09 QQ 告知: 今天 3 个 30 RMB 都是原神月卡"
+    },
+    {
+      "name": "2026-10-07 PURCHASE 1006 LYFT *PRIORITY 10-06 LYFT.COM CA XXXXX3462XXXXXXXXXX1917",
+      "amount": 11.39,
+      "currency": "USD",
+      "type": "支出",
+      "category": "交通",
+      "date": "2026-10-07",
+      "note": "PURCHASE   1006 LYFT   *PRIORITY 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX1917\nsf:TRN-fd045cef-2af0-42d0-9661-8333eabe8fbf"
+    },
+    {
+      "name": "2026-10-07 PURCHASE 1006 AMC 9640 ONLINE 888-440-4262 KS XXXXX0662XXXXXXXXXX7496",
+      "amount": 21.65,
+      "currency": "USD",
+      "type": "支出",
+      "category": "电商 🛒",
+      "date": "2026-10-07",
+      "note": "PURCHASE   1006 AMC 9640 ONLINE                             888-440-4262 KS XXXXX0662XXXXXXXXXX7496\nsf:TRN-60cb27bc-0c13-472d-8a61-1ac8f0e72d6a"
+    },
+    {
+      "name": "2026-10-07 Zelle payment from XIA LIANBO Conf# xp3zq9vex",
+      "amount": 17,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-10-07",
+      "note": "Zelle payment from                                          XIA LIANBO                                                  Conf# xp3zq9vex\nsf:TRN-77498659-fccc-4b83-9796-88a6f56774f6"
+    },
     {
       "name": "终末地礼包",
       "amount": 108,
