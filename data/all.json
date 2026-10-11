@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T23:10:29-05:00",
-  "rate": 6.706465,
+  "updatedAt": "2026-10-10T23:10:30-05:00",
+  "rate": 6.706851,
   "entries": [
     {
       "name": "原神月卡",
@@ -10,6 +10,33 @@
       "category": "游戏 🎮",
       "date": "2026-10-09",
       "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-09 QQ 告知: 今天 3 个 30 RMB 都是原神月卡"
+    },
+    {
+      "name": "2026-10-08 PURCHASE 1007 UBER * EATS San FranciscoCA",
+      "amount": 27.7,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-08",
+      "note": "PURCHASE   1007 UBER   * EATS                               San FranciscoCA\nsf:TRN-ef0d3942-a29f-4032-83fe-72af04801088"
+    },
+    {
+      "name": "2026-10-08 PURCHASE 1007 PAYPAL *COOKUNITYIN 402-935-7733 NY XXXXX6262XXXXXXXXXX8209",
+      "amount": 117.39,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-08",
+      "note": "PURCHASE   1007 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6262XXXXXXXXXX8209\nsf:TRN-e16f5c1d-ebfe-4668-aafc-f514859d455c"
+    },
+    {
+      "name": "2026-10-08 PURCHASE 1007 LYFT *WAITSAVE 10-06 LYFT.COM CA XXXXX3462XXXXXXXXXX5998",
+      "amount": 8.95,
+      "currency": "USD",
+      "type": "支出",
+      "category": "交通",
+      "date": "2026-10-08",
+      "note": "PURCHASE   1007 LYFT   *WAITSAVE 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX5998\nsf:TRN-1370c09f-261a-44c8-94f2-d3c88de7ecbe"
     },
     {
       "name": "2026-10-07 PURCHASE 1006 LYFT *PRIORITY 10-06 LYFT.COM CA XXXXX3462XXXXXXXXXX1917",
