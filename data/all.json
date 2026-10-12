@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-10-10T23:10:30-05:00",
-  "rate": 6.706851,
+  "updatedAt": "2026-10-11T23:10:30-05:00",
+  "rate": 6.700304,
   "entries": [
+    {
+      "name": "影之刃零",
+      "amount": 328,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-10-10",
+      "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-11 WebUI 告知: 昨天买的影之刃零 328. boc_sms 10-10 完全漏捕 (10-10 12:18 之后 boc.log 无任何记录)."
+    },
+    {
+      "name": "原神月卡",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-10-09",
+      "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-09 QQ 告知: 今天 3 个 30 RMB 都是原神月卡 (本条 = 第 3/3 笔, 补 boc_sms 漏捕)"
+    },
+    {
+      "name": "原神月卡",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-10-09",
+      "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-09 QQ 告知: 今天 3 个 30 RMB 都是原神月卡 (本条 = 第 2/3 笔, 补 boc_sms 漏捕)"
+    },
+    {
+      "name": "2026-10-09 DoorDash",
+      "amount": 9.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-09",
+      "note": "PURCHASE   1008 DD *DOORDASHDASHPASS                        DOORDASH.COM CA XXXXX3462XXXXXXXXXX2225\nsf:TRN-62925d54-a1c4-4c82-9fd7-90277241e109"
+    },
     {
       "name": "原神月卡",
       "amount": 30,
@@ -12,7 +48,7 @@
       "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-09 QQ 告知: 今天 3 个 30 RMB 都是原神月卡"
     },
     {
-      "name": "2026-10-08 PURCHASE 1007 UBER * EATS San FranciscoCA",
+      "name": "2026-10-08 Uber Eats",
       "amount": 27.7,
       "currency": "USD",
       "type": "支出",
@@ -21,7 +57,7 @@
       "note": "PURCHASE   1007 UBER   * EATS                               San FranciscoCA\nsf:TRN-ef0d3942-a29f-4032-83fe-72af04801088"
     },
     {
-      "name": "2026-10-08 PURCHASE 1007 PAYPAL *COOKUNITYIN 402-935-7733 NY XXXXX6262XXXXXXXXXX8209",
+      "name": "2026-10-08 CookUnity",
       "amount": 117.39,
       "currency": "USD",
       "type": "支出",
@@ -30,7 +66,7 @@
       "note": "PURCHASE   1007 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6262XXXXXXXXXX8209\nsf:TRN-e16f5c1d-ebfe-4668-aafc-f514859d455c"
     },
     {
-      "name": "2026-10-08 PURCHASE 1007 LYFT *WAITSAVE 10-06 LYFT.COM CA XXXXX3462XXXXXXXXXX5998",
+      "name": "2026-10-08 Lyft",
       "amount": 8.95,
       "currency": "USD",
       "type": "支出",
@@ -39,7 +75,7 @@
       "note": "PURCHASE   1007 LYFT   *WAITSAVE 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX5998\nsf:TRN-1370c09f-261a-44c8-94f2-d3c88de7ecbe"
     },
     {
-      "name": "2026-10-07 PURCHASE 1006 LYFT *PRIORITY 10-06 LYFT.COM CA XXXXX3462XXXXXXXXXX1917",
+      "name": "2026-10-07 Lyft",
       "amount": 11.39,
       "currency": "USD",
       "type": "支出",
@@ -48,7 +84,7 @@
       "note": "PURCHASE   1006 LYFT   *PRIORITY 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX1917\nsf:TRN-fd045cef-2af0-42d0-9661-8333eabe8fbf"
     },
     {
-      "name": "2026-10-07 PURCHASE 1006 AMC 9640 ONLINE 888-440-4262 KS XXXXX0662XXXXXXXXXX7496",
+      "name": "2026-10-07 AMC 电影院",
       "amount": 21.65,
       "currency": "USD",
       "type": "支出",
@@ -57,7 +93,7 @@
       "note": "PURCHASE   1006 AMC 9640 ONLINE                             888-440-4262 KS XXXXX0662XXXXXXXXXX7496\nsf:TRN-60cb27bc-0c13-472d-8a61-1ac8f0e72d6a"
     },
     {
-      "name": "2026-10-07 Zelle payment from XIA LIANBO Conf# xp3zq9vex",
+      "name": "2026-10-07 Zelle 收款",
       "amount": 17,
       "currency": "USD",
       "type": "收入",
@@ -84,7 +120,7 @@
       "note": "二游 终末地 月卡 30元; 中行短信原文: 您的借记卡账户9602,于10月07日网上支付支取人民币30.00元,交易后余额16457.82【中国银行】"
     },
     {
-      "name": "2026-10-06 PURCHASE 1006 LINK.COM* SIMPLEFIN BR LINK.COM CA XXXXX7762XXXXXXXXXX1291",
+      "name": "2026-10-06 Link",
       "amount": 1.5,
       "currency": "USD",
       "type": "支出",
@@ -93,7 +129,7 @@
       "note": "PURCHASE   1006 LINK.COM* SIMPLEFIN BR                      LINK.COM     CA XXXXX7762XXXXXXXXXX1291\nsf:TRN-b540e586-7aca-449c-9f79-d6724bff4a8a"
     },
     {
-      "name": "2026-10-06 PURCHASE 1005 TIKTOK SHOP TIKTOK.COM CA XXXXX2962XXXXXXXXXX2578",
+      "name": "2026-10-06 TikTok",
       "amount": 19.74,
       "currency": "USD",
       "type": "支出",
@@ -102,7 +138,7 @@
       "note": "PURCHASE   1005 TIKTOK SHOP                                 TIKTOK.COM   CA XXXXX2962XXXXXXXXXX2578\nsf:TRN-c28e440e-3fe9-4ae2-9277-7b9edffd8a7c"
     },
     {
-      "name": "2026-10-05 Lemonade Inc DES:PAYMENT ID:PAYMENT INDN:Chengze Wu CO ID:XXXXX69673 WEB",
+      "name": "2026-10-05 Lemonade",
       "amount": 16.42,
       "currency": "USD",
       "type": "支出",
@@ -111,7 +147,7 @@
       "note": "Lemonade Inc     DES:PAYMENT    ID:PAYMENT                   INDN:Chengze Wu              CO ID:XXXXX69673 WEB\nsf:TRN-782f38eb-3a80-4b18-8aca-60d36dd8490f"
     },
     {
-      "name": "2026-10-05 PURCHASE 1004 PAYPAL *UNIQLO USA UNIQ 402-935-7733 NY XXXXX6262XXXXXXXXXX7650",
+      "name": "2026-10-05 优衣库 (UNIQLO)",
       "amount": 124.82,
       "currency": "USD",
       "type": "支出",
@@ -120,7 +156,7 @@
       "note": "PURCHASE   1004 PAYPAL *UNIQLO USA UNIQ                     402-935-7733 NY XXXXX6262XXXXXXXXXX7650\nsf:TRN-dbc40e08-8472-4620-8bcd-eef0915f55f0"
     },
     {
-      "name": "2026-10-05 PURCHASE 1002 UBER * EATS San FranciscoCA",
+      "name": "2026-10-05 Uber Eats",
       "amount": 35.5,
       "currency": "USD",
       "type": "支出",
@@ -129,7 +165,7 @@
       "note": "PURCHASE   1002 UBER   * EATS                               San FranciscoCA\nsf:TRN-82404f82-1275-4d3b-a865-65f4fb5330ff"
     },
     {
-      "name": "2026-10-05 PURCHASE 1002 Fantuan Delivery Fremont CA XXXXX3862XXXXXXXXXX4074",
+      "name": "2026-10-05 Fantuan",
       "amount": 35.18,
       "currency": "USD",
       "type": "支出",
