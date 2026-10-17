@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-15T23:10:11-05:00",
-  "rate": 6.702985,
+  "updatedAt": "2026-10-16T23:10:12-05:00",
+  "rate": 6.698464,
   "entries": [
+    {
+      "name": "2026-10-14 Monthly Maintenance Fee",
+      "amount": 12,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-14",
+      "note": "Monthly Maintenance Fee\nsf:TRN-2ec6fb8e-6771-45a8-b3ce-3dd0d1b99972"
+    },
     {
       "name": "2026-10-13 Amazon",
       "amount": 45.29,
