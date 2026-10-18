@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-16T23:10:12-05:00",
-  "rate": 6.698464,
+  "updatedAt": "2026-10-17T23:10:14-05:00",
+  "rate": 6.702912,
   "entries": [
+    {
+      "name": "2026-10-15 Schnucks",
+      "amount": 4.43,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-15",
+      "note": "SCHNUCKS OVERL  10/15 #XXXXX5128 MOBILE PURCHASE            SCHNUCKS OVERLAN   ST. LOUIS     MO\nsf:TRN-bbf84ce1-b00c-436f-a438-2624db6c152e"
+    },
+    {
+      "name": "2026-10-15 CookUnity",
+      "amount": 103.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-15",
+      "note": "PURCHASE   1014 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6262XXXXXXXXXX3335\nsf:TRN-99ca0fc1-2863-492b-81ff-98618276257d"
+    },
     {
       "name": "2026-10-14 Monthly Maintenance Fee",
       "amount": 12,
