@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-20T23:10:35-05:00",
-  "rate": 6.691314,
+  "updatedAt": "2026-10-21T23:10:38-05:00",
+  "rate": 6.689327,
   "entries": [
+    {
+      "name": "游戏月卡/Steam游戏等 (10-10~10-21 补录)",
+      "amount": 1125,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "游戏 🎮",
+      "date": "2026-10-21",
+      "note": "[rbm-text-pending/fallback 主人文字记账] 主人 2026-10-21 WebUI 告知: 10-10 之后至 10-21 共 11 天中行消费合计 ¥1125, 基本上是游戏月卡/买 Steam 游戏等. boc_sms 完全漏捕 (8082 boc.log 最后一次真实 POST 停在 2026-10-10 12:18; 同期安卓机通用转发器把中行短信发去了 8081 验证码通道, 未进记账管道). 主人未给逐笔拆分, 故按总额记一条, 分类=游戏."
+    },
+    {
+      "name": "2026-10-19 Schnucks",
+      "amount": 57.56,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-19",
+      "note": "SCHNUCKS OVERL  10/19 #XXXXX5966 MOBILE PURCHASE            SCHNUCKS OVERLAN   ST. LOUIS     MO\nsf:TRN-22d317e9-e7c3-4be8-a119-40e79989bb8a"
+    },
     {
       "name": "2026-10-16 Zelle 转出",
       "amount": 10,
