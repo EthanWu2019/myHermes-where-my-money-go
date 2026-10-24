@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-22T23:10:36-05:00",
-  "rate": 6.688225,
+  "updatedAt": "2026-10-23T23:11:39-05:00",
+  "rate": 6.684864,
   "entries": [
+    {
+      "name": "2026-10-21 学费",
+      "amount": 200,
+      "currency": "USD",
+      "type": "支出",
+      "category": "学费",
+      "date": "2026-10-21",
+      "note": "WASHINGTON UNIVE DES:267111     ID:EF03942431                INDN:CHENGZE WU              CO ID:XXXXX36114 PPD\nsf:TRN-34ab6d32-918d-4cfc-876f-161e3c4a4f10"
+    },
     {
       "name": "游戏月卡/Steam游戏等 (10-10~10-21 补录)",
       "amount": 1125,
