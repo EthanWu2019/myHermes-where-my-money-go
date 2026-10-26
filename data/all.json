@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-24T23:30:54-05:00",
-  "rate": 6.689203,
+  "updatedAt": "2026-10-25T23:10:45-05:00",
+  "rate": 6.677446,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 340.21,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-26",
+      "note": "中行短信原文: 您的借记卡账户9602，于10月26日网上支付支取人民币340.21元,交易后余额36185.35【中国银行】"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 279.51,
@@ -210,7 +219,7 @@
       "note": "PURCHASE   1014 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6262XXXXXXXXXX3335\nsf:TRN-99ca0fc1-2863-492b-81ff-98618276257d"
     },
     {
-      "name": "2026-10-14 Monthly Maintenance Fee",
+      "name": "2026-10-14 月费",
       "amount": 12,
       "currency": "USD",
       "type": "支出",
