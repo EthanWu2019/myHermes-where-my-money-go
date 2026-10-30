@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-28T23:10:38-05:00",
-  "rate": 6.680538,
+  "updatedAt": "2026-10-29T23:10:41-05:00",
+  "rate": 6.676858,
   "entries": [
+    {
+      "name": "借记卡入账 (账户9602)",
+      "amount": 4990,
+      "currency": "RMB",
+      "type": "收入",
+      "category": "工资 💰",
+      "date": "2026-10-30",
+      "note": "中行短信原文: 您的借记卡账户9602，于10月30日收入(网银跨行)人民币4990.00元,交易后余额40145.35【中国银行】"
+    },
+    {
+      "name": "2026-10-28 Zelle 转出",
+      "amount": 5,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-28",
+      "note": "Zelle payment to                                             JINGFENG CHEN                                              Conf# iur3so7ns\nsf:TRN-739c4f8b-36ae-4518-8b2b-c86a858db16e"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 1000,
