@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-29T23:21:15-05:00",
-  "rate": 6.676858,
+  "updatedAt": "2026-10-30T23:03:27-05:00",
+  "rate": 6.669566,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 350.54,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-31",
+      "note": "中行短信原文: 您的借记卡账户9602，于10月31日网上支付支取人民币350.54元,交易后余额38794.81【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 1000,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-10-31",
+      "note": "中行短信原文: 您的借记卡账户9602，于10月31日网上支付支取人民币1000.00元,交易后余额39145.35【中国银行】"
+    },
     {
       "name": "工资",
       "amount": 4990,
@@ -10,6 +28,24 @@
       "category": "工资 💰",
       "date": "2026-10-30",
       "note": "中行短信原文: 您的借记卡账户9602，于10月30日收入(网银跨行)人民币4990.00元,交易后余额40145.35【中国银行】"
+    },
+    {
+      "name": "2026-10-29 CookUnity",
+      "amount": 102.87,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-29",
+      "note": "PURCHASE   1028 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6263XXXXXXXXXX1068\nsf:TRN-725be8f0-5935-4708-8a18-9220457cb754"
+    },
+    {
+      "name": "2026-10-29 Nami Ramen",
+      "amount": 19.14,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-10-29",
+      "note": "MOBILE PURCHASE 1028  TST* NAMI RAMEN                       SAINT LOUIS  MO XXXXX4663XXXXXXXXXX8657\nsf:TRN-52463d1e-53af-4bc6-a9de-19483282e785"
     },
     {
       "name": "2026-10-28 Zelle 转出",
