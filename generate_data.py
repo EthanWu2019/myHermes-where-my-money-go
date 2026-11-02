@@ -123,9 +123,9 @@ def main():
     print(f"💱 实时汇率: 1 USD = {rate:.4f} CNY")
     
     # Build output
-    from datetime import datetime, timezone, timedelta
-    cdt = timezone(timedelta(hours=-5))
-    now = datetime.now(cdt).strftime("%Y-%m-%dT%H:%M:%S-05:00")
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    now = datetime.now(ZoneInfo("America/Chicago")).isoformat(timespec="seconds")
     
     output = {
         "updatedAt": now,
