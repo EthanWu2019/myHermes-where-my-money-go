@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:11:46-06:00",
+  "updatedAt": "2026-11-03T23:48:54-06:00",
   "rate": 6.684036,
   "entries": [
     {
@@ -205,7 +205,7 @@
       "amount": 19.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-10-26",
       "note": "PURCHASE   1025 APPLE.COM/BILL                              866-712-7753 CA XXXXX1662XXXXXXXXXX1682\nsf:TRN-4eb6c4d5-241b-4479-9c7c-fe08af3695ac"
     },
@@ -214,7 +214,7 @@
       "amount": 10.91,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-26",
       "note": "PURCHASE   1024 LYFT   *WAITSAVE 10-23                      LYFT.COM     CA XXXXX3462XXXXXXXXXX7554\nsf:TRN-9bd5b201-04b4-4027-bdfe-1c3fbaee847c"
     },
@@ -223,7 +223,7 @@
       "amount": 10.92,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-26",
       "note": "PURCHASE   1023 LYFT   *WAITSAVE 10-23                      LYFT.COM     CA XXXXX3462XXXXXXXXXX3565\nsf:TRN-b109f857-4062-4dbf-8eab-6791d6ee4d33"
     },
@@ -250,7 +250,7 @@
       "amount": 0.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-10-26",
       "note": "PURCHASE   1023 APPLE.COM/BILL                              866-712-7753 CA XXXXX1662XXXXXXXXXX9471 RECURRING\nsf:TRN-686753f4-c627-43f0-9254-9ad3c59e216f"
     },
@@ -385,7 +385,7 @@
       "amount": 200,
       "currency": "USD",
       "type": "支出",
-      "category": "学费",
+      "category": "学费 🎓",
       "date": "2026-10-21",
       "note": "WASHINGTON UNIVE DES:267111     ID:EF03942431                INDN:CHENGZE WU              CO ID:XXXXX36114 PPD\nsf:TRN-34ab6d32-918d-4cfc-876f-161e3c4a4f10"
     },
@@ -439,7 +439,7 @@
       "amount": 13.92,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-16",
       "note": "PURCHASE   1015 LYFT   *WAITSAVE 10-15                      LYFT.COM     CA XXXXX3462XXXXXXXXXX2649\nsf:TRN-128987e1-f404-4f33-8f06-03a7533664e7"
     },
@@ -502,7 +502,7 @@
       "amount": 135,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-10-13",
       "note": "PURCHASE   1012 CRICKET WIRELESS                            855-246-2461 FL XXXXX1662XXXXXXXXXX7916\nsf:TRN-13cf4e0b-0890-42fb-8964-74bd6314de67"
     },
@@ -520,7 +520,7 @@
       "amount": 10.97,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-10-13",
       "note": "PURCHASE   1010 APPLE.COM/BILL                              866-712-7753 CA XXXXX9962XXXXXXXXXX4971 RECURRING\nsf:TRN-cbe85d6d-333a-4bf7-99f5-68f2b7fea671"
     },
@@ -529,7 +529,7 @@
       "amount": 13.97,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-13",
       "note": "PURCHASE   1010 LYFT   *WAITSAVE 10-09                      LYFT.COM     CA XXXXX3462XXXXXXXXXX4932\nsf:TRN-ac30fc1c-547a-4177-aff4-268c940b9dda"
     },
@@ -538,7 +538,7 @@
       "amount": 12.32,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-13",
       "note": "PURCHASE   1009 LYFT   *PRIORITY 10-09                      LYFT.COM     CA XXXXX3462XXXXXXXXXX3476\nsf:TRN-2ab0d8bc-101c-4bdc-bb59-46ffcd886c5b"
     },
@@ -655,7 +655,7 @@
       "amount": 8.95,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-08",
       "note": "PURCHASE   1007 LYFT   *WAITSAVE 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX5998\nsf:TRN-1370c09f-261a-44c8-94f2-d3c88de7ecbe"
     },
@@ -664,7 +664,7 @@
       "amount": 11.39,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-10-07",
       "note": "PURCHASE   1006 LYFT   *PRIORITY 10-06                      LYFT.COM     CA XXXXX3462XXXXXXXXXX1917\nsf:TRN-fd045cef-2af0-42d0-9661-8333eabe8fbf"
     },
@@ -808,7 +808,7 @@
       "amount": 9.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-10-03",
       "note": "iCloud月费，每月3号扣款"
     },
@@ -1114,7 +1114,7 @@
       "amount": 10,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-09-14",
       "note": ""
     },
@@ -1204,7 +1204,7 @@
       "amount": 25.98,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-09-10",
       "note": "Apple Care月度扣款，每月10号扣款"
     },
@@ -1222,7 +1222,7 @@
       "amount": 22,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-09-08",
       "note": "AMC Stubs A-List月度扣款"
     },
@@ -1339,7 +1339,7 @@
       "amount": 9.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-09-03",
       "note": "iCloud月费，每月3号扣款"
     },
@@ -1510,7 +1510,7 @@
       "amount": 95,
       "currency": "RMB",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-22",
       "note": ""
     },
@@ -1537,7 +1537,7 @@
       "amount": 1116,
       "currency": "USD",
       "type": "支出",
-      "category": "学费",
+      "category": "学费 🎓",
       "date": "2026-08-14",
       "note": "WashU秋季学期学费"
     },
@@ -1546,7 +1546,7 @@
       "amount": 12000,
       "currency": "USD",
       "type": "支出",
-      "category": "学费",
+      "category": "学费 🎓",
       "date": "2026-08-14",
       "note": "WashU秋季学期学费"
     },
@@ -1609,7 +1609,7 @@
       "amount": 5,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-14",
       "note": ""
     },
@@ -1699,7 +1699,7 @@
       "amount": 28.34,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-08-14",
       "note": "本月分摊金额未定，先记本月实际数；后续每月金额稳定后再建自动记账"
     },
@@ -1744,7 +1744,7 @@
       "amount": 25.98,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-08-10",
       "note": "Apple Care月度扣款，每月10号扣款"
     },
@@ -1798,7 +1798,7 @@
       "amount": 22,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-08-08",
       "note": "AMC Stubs A-List月度扣款"
     },
@@ -1807,7 +1807,7 @@
       "amount": 6,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-07",
       "note": ""
     },
@@ -1832,9 +1832,9 @@
     {
       "name": "异环月卡",
       "amount": 30,
-      "currency": "CNY",
+      "currency": "RMB",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-08-05",
       "note": "异环月卡"
     },
@@ -1852,7 +1852,7 @@
       "amount": 20,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-04",
       "note": "看电影往返打车"
     },
@@ -1861,7 +1861,7 @@
       "amount": 8,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-03",
       "note": "运我的 Mac Dock 花的邮费"
     },
@@ -1870,7 +1870,7 @@
       "amount": 23,
       "currency": "USD",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-08-03",
       "note": "看电影买了饮料和爆米花"
     },
@@ -1888,7 +1888,7 @@
       "amount": 9.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-08-03",
       "note": "iCloud月费，每月3号扣款"
     },
@@ -1897,7 +1897,7 @@
       "amount": 12,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-08-02",
       "note": ""
     },
@@ -2077,7 +2077,7 @@
       "amount": 69,
       "currency": "RMB",
       "type": "支出",
-      "category": "健身",
+      "category": "其他 📦",
       "date": "2026-07-22",
       "note": "running hub月度会员"
     },
@@ -2095,7 +2095,7 @@
       "amount": 20,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-07-20",
       "note": "看电影来回打车"
     },
@@ -2104,7 +2104,7 @@
       "amount": 22,
       "currency": "USD",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-07-20",
       "note": "看电影爆米花饮料"
     },
@@ -2212,7 +2212,7 @@
       "amount": 11,
       "currency": "USD",
       "type": "支出",
-      "category": "交通",
+      "category": "交通 🚕",
       "date": "2026-07-14",
       "note": "打车"
     },
@@ -2221,7 +2221,7 @@
       "amount": 33.33,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-07-14",
       "note": "3人合用话费 $100/月，分摊每人 $33.33"
     },
@@ -2257,7 +2257,7 @@
       "amount": 25.98,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-07-10",
       "note": "Apple Care月度扣款，每月10号扣款"
     },
@@ -2374,7 +2374,7 @@
       "amount": 22,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-07-08",
       "note": "AMC Stubs A-List 月度扣款（之前写入用了英文 key，已修正）"
     },
@@ -2437,7 +2437,7 @@
       "amount": 9.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-07-03",
       "note": "iCloud月费，每月3号扣款"
     },
@@ -2662,7 +2662,7 @@
       "amount": 25.98,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-06-10",
       "note": "Apple Care月度扣款，每月10号扣款"
     },
@@ -2698,7 +2698,7 @@
       "amount": 13.68,
       "currency": "USD",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-06-08",
       "note": "AMC看电影时的零食"
     },
@@ -2707,7 +2707,7 @@
       "amount": 22,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-06-08",
       "note": ""
     },
@@ -2869,7 +2869,7 @@
       "amount": 288,
       "currency": "RMB",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-06-06",
       "note": "年费288"
     },
@@ -2923,7 +2923,7 @@
       "amount": 9.99,
       "currency": "USD",
       "type": "支出",
-      "category": "月扣",
+      "category": "月扣 🔄",
       "date": "2026-06-03",
       "note": "iCloud月费，每月3号扣款"
     },
@@ -3229,7 +3229,7 @@
       "amount": 24.13,
       "currency": "USD",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-05-17",
       "note": "AMC Esquire 7 · Obsession 17:00 + The Devil Wears Prada 2 19:30 · 电影免费(AMC会员) · 给爆米花留热量中午没吃饭"
     },
@@ -3256,7 +3256,7 @@
       "amount": 21.43,
       "currency": "USD",
       "type": "支出",
-      "category": "娱乐",
+      "category": "其他 📦",
       "date": "2026-05-17",
       "note": "看电影"
     },

@@ -12,8 +12,9 @@ const state = {
 };
 
 const CATEGORY_ORDER = [
-    "工资 💰", "拨款 💸", "零头 🪙", 
-    "房租 🏠", "游戏 🎮", "饮食 🍜", "大件 🖥️", "AI 🤖", "电商 🛒", "其他 📦"
+    "工资 💰", "拨款 💸", "零头 🪙",
+    "房租 🏠", "学费 🎓", "游戏 🎮", "饮食 🍜", "交通 🚕", "月扣 🔄",
+    "大件 🖥️", "AI 🤖", "电商 🛒", "其他 📦"
 ];
 
 let expenseChartInstance = null;
@@ -337,7 +338,8 @@ function renderExpenseChart(categoryStats) {
             datasets: [{
                 data: dataValues,
                 backgroundColor: [
-                    '#FB7185', '#FBBF24', '#A78BFA', '#60A5FA', '#34D399', '#F472B6', '#818CF8', '#FCA5A5', '#FCD34D', '#C084FC'
+                    '#FB7185', '#FBBF24', '#A78BFA', '#60A5FA', '#34D399', '#F472B6', '#818CF8', '#FCA5A5', '#FCD34D', '#C084FC',
+                    '#2DD4BF', '#FB923C', '#94A3B8'
                 ],
                 borderColor: isDark ? 'rgba(11, 11, 20, 0.8)' : 'rgba(242, 242, 247, 0.8)',
                 borderWidth: 3,
