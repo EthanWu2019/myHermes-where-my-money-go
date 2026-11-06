@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-04T23:11:40-06:00",
-  "rate": 6.685421,
+  "updatedAt": "2026-11-05T23:06:03-06:00",
+  "rate": 6.682525,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 68,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-05",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月05日网上支付支取人民币68.00元,交易后余额78852.96【中国银行】"
+    },
+    {
+      "name": "2026-11-04 移民局",
+      "amount": 7.47,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-04",
+      "note": "CHECKCARD  1103 IMMIGRATION IGMS                            WELLINGTON      XXXXX4663XXXXXXXXXX0019                     INTERNATIONAL TRANSACTION FEE\nsf:TRN-7eef598d-e973-4b90-93ed-75892fb0bedb"
+    },
+    {
+      "name": "2026-11-04 Lemonade",
+      "amount": 16.42,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-04",
+      "note": "Lemonade Inc     DES:PAYMENT    ID:PAYMENT                   INDN:Chengze Wu              CO ID:XXXXX69673 WEB\nsf:TRN-4587f262-b3fe-453e-923d-55ac7122d21c"
+    },
+    {
+      "name": "2026-11-04 iCloud 存储",
+      "amount": 6.71,
+      "currency": "USD",
+      "type": "支出",
+      "category": "月扣 🔄",
+      "date": "2026-11-04",
+      "note": "PURCHASE   1103 APPLE.COM/BILL                              866-712-7753 CA XXXXX1663XXXXXXXXXX6421 RECURRING\nsf:TRN-5d4ce135-59d8-4fa1-8e62-30e2714c75ca"
+    },
+    {
+      "name": "2026-11-04 移民局",
+      "amount": 248.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-04",
+      "note": "CHECKCARD  1103 IMMIGRATION IGMS                            WELLINGTON      XXXXX4663XXXXXXXXXX0019\nsf:TRN-5e92b2bc-d9d0-48d7-a1f7-184fe71a5b8d"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 128,
