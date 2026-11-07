@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-05T23:11:57-06:00",
-  "rate": 6.682525,
+  "updatedAt": "2026-11-06T23:11:41-06:00",
+  "rate": 6.686107,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-07",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月07日支取(短信通知服务费)人民币30.00元,交易后余额78381.89【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 1000,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-07",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月07日网上支付支取人民币1000.00元,交易后余额77381.89【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 65.32,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-07",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月07日网上支付支取人民币65.32元,交易后余额78411.89【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 375.75,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-07",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月07日网上支付支取人民币375.75元,交易后余额78477.21【中国银行】"
+    },
+    {
+      "name": "2026-11-05 Uber Eats",
+      "amount": 43.7,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-05",
+      "note": "PURCHASE   1105 UBER *EATS HELP.UBER.CO                     XXX-XX28996  CA XXXXX2963XXXXXXXXXX5087\nsf:TRN-ba781692-7391-4d1a-9bf0-b0098196c5ed"
+    },
+    {
+      "name": "2026-11-05 CookUnity",
+      "amount": 117.39,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-05",
+      "note": "PURCHASE   1104 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6263XXXXXXXXXX4809\nsf:TRN-4d88e459-f2b4-491a-8c3d-2e6cfee69ca0"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 68,
