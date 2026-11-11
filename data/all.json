@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T23:10:51-06:00",
-  "rate": 6.686583,
+  "updatedAt": "2026-11-10T23:10:55-06:00",
+  "rate": 6.687755,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 128,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-11",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月11日网上支付支取人民币128.00元,交易后余额62441.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 399.99,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-11",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月11日网上支付支取人民币399.99元,交易后余额62569.18【中国银行】"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 6006,
@@ -19,6 +37,42 @@
       "category": "其他 📦",
       "date": "2026-11-10",
       "note": "中行短信原文: 您的借记卡账户9602，于11月10日网上支付支取人民币6006.00元,交易后余额68975.17【中国银行】"
+    },
+    {
+      "name": "2026-11-09 Lyft",
+      "amount": 10.98,
+      "currency": "USD",
+      "type": "支出",
+      "category": "交通 🚕",
+      "date": "2026-11-09",
+      "note": "PURCHASE   1108 LYFT   *WAITSAVE 11-08                      LYFT.COM     CA XXXXX3463XXXXXXXXXX6551\nsf:TRN-95962ef4-b6fe-40c8-b1ca-c5dc198c30bc"
+    },
+    {
+      "name": "2026-11-09 DoorDash",
+      "amount": 9.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-09",
+      "note": "PURCHASE   1108 DD *DOORDASHDASHPASS                        DOORDASH.COM CA XXXXX3463XXXXXXXXXX1329\nsf:TRN-a16a3ad5-3563-4cce-8ef8-4b645add7282"
+    },
+    {
+      "name": "2026-11-09 Nami Ramen",
+      "amount": 24.77,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-09",
+      "note": "MOBILE PURCHASE 1106  TST* NAMI RAMEN                       SAINT LOUIS  MO XXXXX4663XXXXXXXXXX3313\nsf:TRN-8585d4c9-3012-46e6-a561-bba9e0d9c046"
+    },
+    {
+      "name": "2026-11-09 月费",
+      "amount": 8,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-09",
+      "note": "Monthly Maintenance Fee\nsf:TRN-0547442c-958e-4a7a-8355-5dcf3fb3c8c6"
     },
     {
       "name": "借记卡网上支付 (账户9602)",
