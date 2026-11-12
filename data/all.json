@@ -1,7 +1,142 @@
 {
-  "updatedAt": "2026-11-10T23:10:55-06:00",
-  "rate": 6.687755,
+  "updatedAt": "2026-11-11T23:05:24-06:00",
+  "rate": 6.685797,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币648.00元,交易后余额57613.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币648.00元,交易后余额58261.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币648.00元,交易后余额58909.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币648.00元,交易后余额59557.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 1000,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币1000.00元,交易后余额60205.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 648,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币648.00元,交易后余额61205.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 128,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币128.00元,交易后余额61853.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 68,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币68.00元,交易后余额61981.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 198,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币198.00元,交易后余额62049.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 68,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币68.00元,交易后余额62247.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 6,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币6.00元,交易后余额62315.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币30.00元,交易后余额62321.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币30.00元,交易后余额62351.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币30.00元,交易后余额62381.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 30,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月12日网上支付支取人民币30.00元,交易后余额62411.18【中国银行】"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 128,
@@ -19,6 +154,78 @@
       "category": "其他 📦",
       "date": "2026-11-11",
       "note": "中行短信原文: 您的借记卡账户9602，于11月11日网上支付支取人民币399.99元,交易后余额62569.18【中国银行】"
+    },
+    {
+      "name": "2026-11-10 月费",
+      "amount": 12,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Monthly Maintenance Fee\nsf:TRN-c08470c1-2b31-483e-a67a-72dd08f3bee4"
+    },
+    {
+      "name": "2026-11-10 Lyft",
+      "amount": 11.91,
+      "currency": "USD",
+      "type": "支出",
+      "category": "交通 🚕",
+      "date": "2026-11-10",
+      "note": "PURCHASE   1109 LYFT   *WAITSAVE 11-08                      LYFT.COM     CA XXXXX3463XXXXXXXXXX3641\nsf:TRN-029e8340-1410-43b5-8602-968fac2f8291"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 2,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                          MINGZHI XIE                                                 Conf# zafk3cpgf\nsf:TRN-04f969ac-b71c-4f68-ae54-e11a904dc3fc"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 25,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                          MINGZHI XIE                                                 Conf# wkes61kw1\nsf:TRN-65d7c8a2-bf9f-4ed3-ad3a-a984dfdd571f"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 27,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                          ZHIYU HAN                                                   Conf# nqwtpwwu0\nsf:TRN-c75c8838-e854-4098-8cdc-3c8dd930f7fc"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 27,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                          YUHANG ZHANG                                                Conf# odl085eq8\nsf:TRN-f9887ae4-0701-4883-bec0-d72f9720ad21"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 27,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                           WEIHANG HUANG                                              for                                                         \"y\";                                                        Conf# 99d2sdz9g\nsf:TRN-bfbe7270-8be3-4d86-9a5a-0daa27b55f7a"
+    },
+    {
+      "name": "2026-11-10 Zelle 收款",
+      "amount": 30.5,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-10",
+      "note": "Zelle payment from                                          XINHUA YAN                                                  Conf# z9phfu9ll\nsf:TRN-08b18364-c0d3-4932-9bb8-acb0029ece23"
     },
     {
       "name": "借记卡网上支付 (账户9602)",
