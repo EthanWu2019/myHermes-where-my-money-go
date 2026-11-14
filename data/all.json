@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-12T23:10:54-06:00",
-  "rate": 6.685071,
+  "updatedAt": "2026-11-13T23:10:56-06:00",
+  "rate": 6.684938,
   "entries": [
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 29.6,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-14",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月14日网上支付支取人民币29.60元,交易后余额56495.58【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 1000,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-14",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月14日网上支付支取人民币1000.00元,交易后余额56525.18【中国银行】"
+    },
+    {
+      "name": "借记卡网上支付 (账户9602)",
+      "amount": 68,
+      "currency": "RMB",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-14",
+      "note": "中行短信原文: 您的借记卡账户9602，于11月14日网上支付支取人民币68.00元,交易后余额57525.18【中国银行】"
+    },
     {
       "name": "借记卡网上支付 (账户9602)",
       "amount": 20,
@@ -10,6 +37,87 @@
       "category": "其他 📦",
       "date": "2026-11-13",
       "note": "中行短信原文: 您的借记卡账户9602，于11月13日网上支付支取人民币20.00元,交易后余额57593.18【中国银行】"
+    },
+    {
+      "name": "2026-11-12 简单金融",
+      "amount": 13.78,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1111 LINK.COM* SIMPLEFIN BR                      LINK.COM     CA XXXXX7763XXXXXXXXXX3632 RECURRING\nsf:TRN-fae3af7d-86ca-4086-b308-eb2a1f664d0c"
+    },
+    {
+      "name": "2026-11-12 CookUnity",
+      "amount": 107.34,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1111 PAYPAL *COOKUNITYIN                         402-935-7733 NY XXXXX6263XXXXXXXXXX0090\nsf:TRN-281394ac-4f91-4675-b75e-31492af0900a"
+    },
+    {
+      "name": "2026-11-12 KPot",
+      "amount": 4.62,
+      "currency": "USD",
+      "type": "支出",
+      "category": "饮食 🍜",
+      "date": "2026-11-12",
+      "note": "MOBILE PURCHASE 1111  TST* KPOT KOREAN BBQ &                OVERLAND     MO XXXXX4663XXXXXXXXXX7997\nsf:TRN-9043715b-7f56-474f-81b8-c972be0debea"
+    },
+    {
+      "name": "2026-11-12 TikTok",
+      "amount": 60.7,
+      "currency": "USD",
+      "type": "支出",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1111 TikTok Go                                   Culver City  CA XXXXX3863XXXXXXXXXX3096\nsf:TRN-5dfa8d9c-b0a8-488d-a2d9-af1c1082fa45"
+    },
+    {
+      "name": "2026-11-12 Lyft",
+      "amount": 15.95,
+      "currency": "USD",
+      "type": "支出",
+      "category": "交通 🚕",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1111 LYFT   *WAITSAVE 11-10                      LYFT.COM     CA XXXXX3463XXXXXXXXXX2062\nsf:TRN-73a99265-ef2b-44d6-9c89-96617ef943f1"
+    },
+    {
+      "name": "2026-11-12 iCloud 存储",
+      "amount": 19.99,
+      "currency": "USD",
+      "type": "支出",
+      "category": "月扣 🔄",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1110 APPLE.COM/BILL                              866-712-7753 CA XXXXX1663XXXXXXXXXX6367 RECURRING\nsf:TRN-b0b66de8-a269-431b-9fc7-7678d88a40be"
+    },
+    {
+      "name": "2026-11-12 Cricket Wireless",
+      "amount": 135,
+      "currency": "USD",
+      "type": "支出",
+      "category": "月扣 🔄",
+      "date": "2026-11-12",
+      "note": "PURCHASE   1110 CRICKET WIRELESS                            855-246-2461 FL XXXXX1663XXXXXXXXXX7562\nsf:TRN-e5f77676-4c84-463f-bb0e-c53dd4dd9385"
+    },
+    {
+      "name": "2026-11-12 TikTok",
+      "amount": 1.33,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "PURCHASE REFUND 1111  TikTok Go                             Culver City  CA XXXXX3863XXXXXXXXXX5092\nsf:TRN-46afee5e-027f-4e1d-ab91-47a59f4d7037"
+    },
+    {
+      "name": "2026-11-12 Zelle 收款",
+      "amount": 30,
+      "currency": "USD",
+      "type": "收入",
+      "category": "其他 📦",
+      "date": "2026-11-12",
+      "note": "Zelle payment from                                          YUFENG ZHANG                                                Conf# gb34o608s\nsf:TRN-28a8fe89-e9b2-4aa4-8466-f6b67ceb03b2"
     },
     {
       "name": "借记卡网上支付 (账户9602)",
